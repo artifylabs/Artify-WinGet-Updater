@@ -1,0 +1,24 @@
+# Created with YamlCreate.ps1 v2.4.1 $debug=NVS1.CRLF.7-4-2.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.9.0.schema.json
+
+PackageIdentifier: Insco.Artify
+PackageVersion: ${version}
+PackageLocale: zh-CN
+Publisher: Insco LLC
+PublisherUrl: https://www.artifylabs.org
+PublisherSupportUrl: https://github.com/artifylabs/artify/discussions
+PrivacyUrl: https://www.artifylabs.org/zh/legal/privacy
+Author: kjxbyz
+PackageName: Artify
+PackageUrl: https://www.artifylabs.org
+License: GPL-3.0
+LicenseUrl: https://raw.githubusercontent.com/artifylabs/artify/main/LICENSE
+Copyright: Copyright (c) 2024 kjxbyz
+ShortDescription: 理念、绘画与艺术。
+Description: |
+  介绍 **Artify** - 理念、绘画与艺术。
+Tags:
+  - artify
+ReleaseNotesUrl: https://raw.githubusercontent.com/artifylabs/artify/v${release}/CHANGELOG.md
+ManifestType: locale
+ManifestVersion: 1.9.0

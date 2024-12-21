@@ -1,0 +1,24 @@
+# Created with YamlCreate.ps1 v2.4.1 $debug=NVS1.CRLF.7-4-2.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.9.0.schema.json
+
+PackageIdentifier: Insco.Artify
+PackageVersion: ${version}
+PackageLocale: en-US
+Publisher: Insco LLC
+PublisherUrl: https://www.artifylabs.org
+PublisherSupportUrl: https://github.com/artifylabs/artify/discussions
+PrivacyUrl: https://www.artifylabs.org/en/legal/privacy
+Author: kjxbyz
+PackageName: Artify
+PackageUrl: https://www.artifylabs.org
+License: GPL-3.0
+LicenseUrl: https://raw.githubusercontent.com/artifylabs/artify/main/LICENSE
+Copyright: Copyright (c) 2024 kjxbyz
+ShortDescription: Ideas, Painting & Art.
+Description: |
+  Introducing **Artify** - Ideas, Painting & Art.
+Tags:
+  - artify
+ReleaseNotesUrl: https://raw.githubusercontent.com/artifylabs/artify/v${release}/CHANGELOG.md
+ManifestType: defaultLocale
+ManifestVersion: 1.9.0
