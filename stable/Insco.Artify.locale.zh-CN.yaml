@@ -14,9 +14,9 @@ PackageUrl: https://www.artifylabs.org
 License: GPL-3.0
 LicenseUrl: https://raw.githubusercontent.com/artifylabs/artify/main/LICENSE
 Copyright: Copyright (c) 2024 kjxbyz
-ShortDescription: 理念、绘画与艺术。
+ShortDescription: 创意、绘画与艺术。
 Description: |
-  介绍 **Artify** - 理念、绘画与艺术。
+  介绍 **Artify** - 创意、绘画与艺术。
 Tags:
   - artify
 ReleaseNotesUrl: https://raw.githubusercontent.com/artifylabs/artify/v${release}/CHANGELOG.md
