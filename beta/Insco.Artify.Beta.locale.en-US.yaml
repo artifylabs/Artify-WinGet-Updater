@@ -4,7 +4,7 @@
 PackageIdentifier: Insco.Artify.Beta
 PackageVersion: ${version}
 PackageLocale: en-US
-Publisher: Insco LLC
+Publisher: Insco Ltd
 PublisherUrl: https://www.artifylabs.org
 PublisherSupportUrl: https://github.com/artifylabs/artify/discussions
 PrivacyUrl: https://www.artifylabs.org/en/legal/privacy
